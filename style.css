@@ -1,0 +1,136 @@
+
+body{
+  background:linear-gradient(to right,white, skyblue, gold, white, gold, skyblue,white);
+margin:0;
+padding-left:55px;
+overflow-y: auto;
+height:auto;
+}
+.webpage{
+ width:100%;
+ margin:20px auto;
+  background:linear-gradient(to right,skyblue,silver,skyblue);
+  width:1100px;
+  height: auto;
+  border-radius:60px;
+  padding: 20px 20px 20px 20px;
+  font-family:cambria;
+}
+h1{
+  text-align: center;
+}
+
+.navicon a{
+  text-decoration:none;
+  color:purple;
+  font-size:30px;
+  border:5px inset gold;
+  border-radius:60px;
+  padding:5px;
+  gap:15px;
+  background-color:white;
+}
+.navbar a{
+	text-decoration:none;
+  color:purple;
+  font-size:30px;
+  border:5px inset gold;
+  border-radius:60px;
+  padding:5px;
+  gap:15px;
+  background-color:white;
+}
+
+.navicon{
+  text-align:center;
+  justify-content:space-between;
+}
+.navicon nav{
+  display:flex;
+  gap:30px;
+}
+.pitch{
+  background:linear-gradient(90deg,
+    rgba(218, 239, 247, 0.96),
+    rgba(213, 238, 249, 0.4));
+  color:blue;
+  padding: 10px;
+  border-radius:30px;
+  width: 700px;
+  height: auto;
+  font-size:18px;
+  margin-left:10%;
+  padding-left:10%;
+}
+.size{
+font-size:60px;
+  background: linear-gradient(to right,blue,blue,gold);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+border-bottom:30px double white;
+border-radius:60px;
+
+}
+
+.pages{
+	 max-width:1200px;
+ width:100%;
+ margin:20px auto;
+ overflow:hidden;
+  background:linear-gradient(to right,skyblue,silver,skyblue);
+  width:1000px;
+  height: auto;
+  border-radius:60px;
+  padding: 20px 20px 20px 20px;
+  font-family:"poppins", sans-serif;
+}
+.webpages{
+	background:linear-gradient(to right,skyblue,gold,white,gold,skyblue);
+  margin:0;
+  padding-left: 55px;
+  overflow-y:auto;
+  height: auto;
+	
+}
+.loginpage{
+	background:linear-gradient(to right,skyblue,gold,white,gold,skyblue);
+  margin:0;
+  padding-left:55px;
+  overflow-y:auto;
+  height:auto;
+}
+.login{
+ max-width:1200px;
+ width:100%;
+ margin:20px auto;
+ overflow:hidden;
+  background:linear-gradient(to right,skyblue,silver,skyblue);
+  width:1000px;
+  height: auto;
+  border-radius:60px;
+  padding: 20px 20px 20px 20px;
+  font-family:"poppins", sans-serif;	
+	
+}
+.contact{
+	background:linear-gradient(to right,skyblue,gold,white,gold,skyblue);
+  margin:0;
+  padding-left:55px;
+  overflow-y: auto;
+  height:auto;
+	
+}
+.contactpage{
+	max-width:1200px;
+ width:100%;
+ margin:20px auto;
+ overflow:hidden;
+  background:linear-gradient(to right,skyblue,silver,skyblue);
+  width:1000px;
+  height: auto;
+  border-radius:60px;
+  padding: 20px 20px 20px 20px;
+  font-family:"poppins", sans-serif;	
+	
+}
